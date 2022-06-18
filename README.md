@@ -17,7 +17,7 @@
 
 # Credits
 * `Base Repo Used In The Build - Eva Maria`
-* © [PaulWalker](https://telegram.dog/PaulWalker_TG)
+* © [](https://telegram.dog/PaulWalker_TG)
 * Powered By [XD_Botz](https://telegram.dog/xd_botz)
 * [Subin Ps](https://telegram.dog/subin_works)
 
@@ -93,5 +93,5 @@ python3 bot.py
 • /broadcast - to broadcast a message to all users
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/Sakurabotsupport)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/SakurabotUpdates)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/CinemaPranthenGroup)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/CinemaPranthenChannel)
